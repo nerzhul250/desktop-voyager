@@ -1,0 +1,679 @@
+{
+    "img_shape": [
+        1080,
+        1920,
+        3
+    ],
+    "texts": [
+        {
+            "column_max": 73,
+            "id": 0,
+            "row_max": 19,
+            "content": "Activities",
+            "height": 12,
+            "width": 62,
+            "column_min": 11,
+            "row_min": 7
+        },
+        {
+            "column_max": 269,
+            "id": 1,
+            "row_max": 19,
+            "content": "Firefox Web Browser",
+            "height": 13,
+            "width": 138,
+            "column_min": 131,
+            "row_min": 6
+        },
+        {
+            "column_max": 980,
+            "id": 2,
+            "row_max": 18,
+            "content": "abr",
+            "height": 10,
+            "width": 22,
+            "column_min": 958,
+            "row_min": 8
+        },
+        {
+            "column_max": 1034,
+            "id": 3,
+            "row_max": 18,
+            "content": "07:31",
+            "height": 10,
+            "width": 35,
+            "column_min": 999,
+            "row_min": 8
+        },
+        {
+            "column_max": 316,
+            "id": 4,
+            "row_max": 58,
+            "content": "swiset swisetback Pull",
+            "height": 14,
+            "width": 168,
+            "column_min": 148,
+            "row_min": 44
+        },
+        {
+            "column_max": 538,
+            "id": 5,
+            "row_max": 55,
+            "content": "Java Code Validation Issu",
+            "height": 14,
+            "width": 165,
+            "column_min": 373,
+            "row_min": 41
+        },
+        {
+            "column_max": 694,
+            "id": 6,
+            "row_max": 57,
+            "content": "Telegram Web",
+            "height": 15,
+            "width": 96,
+            "column_min": 598,
+            "row_min": 42
+        },
+        {
+            "column_max": 881,
+            "id": 7,
+            "row_max": 54,
+            "content": "New Tab",
+            "height": 12,
+            "width": 58,
+            "column_min": 823,
+            "row_min": 42
+        },
+        {
+            "column_max": 1040,
+            "id": 8,
+            "row_max": 54,
+            "content": "IN",
+            "height": 12,
+            "width": 11,
+            "column_min": 1029,
+            "row_min": 42
+        },
+        {
+            "column_max": 1093,
+            "id": 9,
+            "row_max": 57,
+            "content": "Swiset",
+            "height": 15,
+            "width": 46,
+            "column_min": 1047,
+            "row_min": 42
+        },
+        {
+            "column_max": 1438,
+            "id": 10,
+            "row_max": 55,
+            "content": "Elastic Beanstalk Environ",
+            "height": 11,
+            "width": 164,
+            "column_min": 1274,
+            "row_min": 44
+        },
+        {
+            "column_max": 1544,
+            "id": 11,
+            "row_max": 56,
+            "content": "Swiset",
+            "height": 14,
+            "width": 46,
+            "column_min": 1498,
+            "row_min": 42
+        },
+        {
+            "column_max": 40,
+            "id": 12,
+            "row_max": 200,
+            "content": "IJ",
+            "height": 11,
+            "width": 16,
+            "column_min": 24,
+            "row_min": 189
+        },
+        {
+            "column_max": 928,
+            "id": 13,
+            "row_max": 99,
+            "content": "localhost : 3000 tournaments embed rank ? tournamentid 55 & identifier 1799657",
+            "height": 14,
+            "width": 563,
+            "column_min": 365,
+            "row_min": 85
+        },
+        {
+            "column_max": 735,
+            "id": 14,
+            "row_max": 317,
+            "content": "Current Top 10",
+            "height": 22,
+            "width": 131,
+            "column_min": 604,
+            "row_min": 295
+        },
+        {
+            "column_max": 1156,
+            "id": 15,
+            "row_max": 177,
+            "content": "Torneo Demo Impulse",
+            "height": 33,
+            "width": 319,
+            "column_min": 837,
+            "row_min": 144
+        },
+        {
+            "column_max": 1143,
+            "id": 16,
+            "row_max": 199,
+            "content": "Tournament organized by Impulse World",
+            "height": 16,
+            "width": 296,
+            "column_min": 847,
+            "row_min": 183
+        },
+        {
+            "column_max": 589,
+            "id": 17,
+            "row_max": 454,
+            "content": "2nd",
+            "height": 10,
+            "width": 27,
+            "column_min": 562,
+            "row_min": 444
+        },
+        {
+            "column_max": 603,
+            "id": 18,
+            "row_max": 471,
+            "content": "Yonarkis",
+            "height": 13,
+            "width": 55,
+            "column_min": 548,
+            "row_min": 458
+        },
+        {
+            "column_max": 697,
+            "id": 19,
+            "row_max": 468,
+            "content": "1st",
+            "height": 9,
+            "width": 18,
+            "column_min": 679,
+            "row_min": 459
+        },
+        {
+            "column_max": 719,
+            "id": 20,
+            "row_max": 486,
+            "content": "Sebastian",
+            "height": 12,
+            "width": 62,
+            "column_min": 657,
+            "row_min": 474
+        },
+        {
+            "column_max": 814,
+            "id": 21,
+            "row_max": 453,
+            "content": "3rd",
+            "height": 10,
+            "width": 24,
+            "column_min": 790,
+            "row_min": 443
+        },
+        {
+            "column_max": 829,
+            "id": 22,
+            "row_max": 471,
+            "content": "Yonarkis",
+            "height": 14,
+            "width": 55,
+            "column_min": 774,
+            "row_min": 457
+        },
+        {
+            "column_max": 157,
+            "id": 23,
+            "row_max": 546,
+            "content": "Rank",
+            "height": 10,
+            "width": 32,
+            "column_min": 125,
+            "row_min": 536
+        },
+        {
+            "column_max": 279,
+            "id": 24,
+            "row_max": 547,
+            "content": "Profile",
+            "height": 11,
+            "width": 41,
+            "column_min": 238,
+            "row_min": 536
+        },
+        {
+            "column_max": 439,
+            "id": 25,
+            "row_max": 546,
+            "content": "First Name",
+            "height": 10,
+            "width": 72,
+            "column_min": 367,
+            "row_min": 536
+        },
+        {
+            "column_max": 617,
+            "id": 26,
+            "row_max": 547,
+            "content": "Username",
+            "height": 12,
+            "width": 67,
+            "column_min": 550,
+            "row_min": 535
+        },
+        {
+            "column_max": 766,
+            "id": 27,
+            "row_max": 548,
+            "content": "Status",
+            "height": 12,
+            "width": 40,
+            "column_min": 726,
+            "row_min": 536
+        },
+        {
+            "column_max": 941,
+            "id": 28,
+            "row_max": 551,
+            "content": "Equity",
+            "height": 15,
+            "width": 41,
+            "column_min": 900,
+            "row_min": 536
+        },
+        {
+            "column_max": 427,
+            "id": 29,
+            "row_max": 595,
+            "content": "Sebastian",
+            "height": 13,
+            "width": 60,
+            "column_min": 367,
+            "row_min": 582
+        },
+        {
+            "column_max": 619,
+            "id": 30,
+            "row_max": 594,
+            "content": "nerzhul250",
+            "height": 11,
+            "width": 69,
+            "column_min": 550,
+            "row_min": 583
+        },
+        {
+            "column_max": 779,
+            "id": 31,
+            "row_max": 595,
+            "content": "Active",
+            "height": 11,
+            "width": 41,
+            "column_min": 738,
+            "row_min": 584
+        },
+        {
+            "column_max": 942,
+            "id": 32,
+            "row_max": 595,
+            "content": "0.00",
+            "height": 11,
+            "width": 31,
+            "column_min": 911,
+            "row_min": 584
+        },
+        {
+            "column_max": 1058,
+            "id": 33,
+            "row_max": 598,
+            "content": "Winning 50k",
+            "height": 15,
+            "width": 87,
+            "column_min": 971,
+            "row_min": 583
+        },
+        {
+            "column_max": 418,
+            "id": 34,
+            "row_max": 641,
+            "content": "Yonarkis",
+            "height": 9,
+            "width": 52,
+            "column_min": 366,
+            "row_min": 632
+        },
+        {
+            "column_max": 605,
+            "id": 35,
+            "row_max": 642,
+            "content": "1813344",
+            "height": 10,
+            "width": 54,
+            "column_min": 551,
+            "row_min": 632
+        },
+        {
+            "column_max": 779,
+            "id": 36,
+            "row_max": 643,
+            "content": "Active",
+            "height": 11,
+            "width": 41,
+            "column_min": 738,
+            "row_min": 632
+        },
+        {
+            "column_max": 942,
+            "id": 37,
+            "row_max": 643,
+            "content": "0.00",
+            "height": 11,
+            "width": 31,
+            "column_min": 911,
+            "row_min": 632
+        },
+        {
+            "column_max": 1059,
+            "id": 38,
+            "row_max": 645,
+            "content": "Winning 25k",
+            "height": 15,
+            "width": 88,
+            "column_min": 971,
+            "row_min": 630
+        },
+        {
+            "column_max": 418,
+            "id": 39,
+            "row_max": 689,
+            "content": "Yonarkis",
+            "height": 9,
+            "width": 52,
+            "column_min": 366,
+            "row_min": 680
+        },
+        {
+            "column_max": 604,
+            "id": 40,
+            "row_max": 689,
+            "content": "1813345",
+            "height": 9,
+            "width": 53,
+            "column_min": 551,
+            "row_min": 680
+        },
+        {
+            "column_max": 785,
+            "id": 41,
+            "row_max": 749,
+            "content": "Active 00 Active",
+            "height": 79,
+            "width": 59,
+            "column_min": 726,
+            "row_min": 670
+        },
+        {
+            "column_max": 942,
+            "id": 42,
+            "row_max": 691,
+            "content": "0.00",
+            "height": 11,
+            "width": 31,
+            "column_min": 911,
+            "row_min": 680
+        },
+        {
+            "column_max": 418,
+            "id": 43,
+            "row_max": 737,
+            "content": "Yonarkis",
+            "height": 9,
+            "width": 52,
+            "column_min": 366,
+            "row_min": 728
+        },
+        {
+            "column_max": 604,
+            "id": 44,
+            "row_max": 737,
+            "content": "9813345",
+            "height": 9,
+            "width": 54,
+            "column_min": 550,
+            "row_min": 728
+        },
+        {
+            "column_max": 942,
+            "id": 45,
+            "row_max": 739,
+            "content": "0.00",
+            "height": 11,
+            "width": 31,
+            "column_min": 911,
+            "row_min": 728
+        },
+        {
+            "column_max": 418,
+            "id": 46,
+            "row_max": 785,
+            "content": "Yonarkis",
+            "height": 9,
+            "width": 52,
+            "column_min": 366,
+            "row_min": 776
+        },
+        {
+            "column_max": 604,
+            "id": 47,
+            "row_max": 786,
+            "content": "7813345",
+            "height": 10,
+            "width": 54,
+            "column_min": 550,
+            "row_min": 776
+        },
+        {
+            "column_max": 779,
+            "id": 48,
+            "row_max": 787,
+            "content": "Active",
+            "height": 11,
+            "width": 41,
+            "column_min": 738,
+            "row_min": 776
+        },
+        {
+            "column_max": 942,
+            "id": 49,
+            "row_max": 787,
+            "content": "0.00",
+            "height": 11,
+            "width": 31,
+            "column_min": 911,
+            "row_min": 776
+        },
+        {
+            "column_max": 418,
+            "id": 50,
+            "row_max": 836,
+            "content": "Yonarkis",
+            "height": 13,
+            "width": 52,
+            "column_min": 366,
+            "row_min": 823
+        },
+        {
+            "column_max": 604,
+            "id": 51,
+            "row_max": 834,
+            "content": "6813345",
+            "height": 9,
+            "width": 54,
+            "column_min": 550,
+            "row_min": 825
+        },
+        {
+            "column_max": 779,
+            "id": 52,
+            "row_max": 835,
+            "content": "Active",
+            "height": 11,
+            "width": 41,
+            "column_min": 738,
+            "row_min": 824
+        },
+        {
+            "column_max": 941,
+            "id": 53,
+            "row_max": 834,
+            "content": "0.00",
+            "height": 10,
+            "width": 30,
+            "column_min": 911,
+            "row_min": 824
+        },
+        {
+            "column_max": 1441,
+            "id": 54,
+            "row_max": 377,
+            "content": "wins 50k",
+            "height": 12,
+            "width": 60,
+            "column_min": 1381,
+            "row_min": 365
+        },
+        {
+            "column_max": 1442,
+            "id": 55,
+            "row_max": 413,
+            "content": "wins 25k",
+            "height": 12,
+            "width": 61,
+            "column_min": 1381,
+            "row_min": 401
+        },
+        {
+            "column_max": 1674,
+            "id": 56,
+            "row_max": 254,
+            "content": "Login to see more ..",
+            "height": 18,
+            "width": 163,
+            "column_min": 1511,
+            "row_min": 236
+        },
+        {
+            "column_max": 1696,
+            "id": 57,
+            "row_max": 340,
+            "content": "Tournament Awards",
+            "height": 14,
+            "width": 173,
+            "column_min": 1523,
+            "row_min": 326
+        },
+        {
+            "column_max": 1709,
+            "id": 58,
+            "row_max": 513,
+            "content": "Tournament will start in",
+            "height": 14,
+            "width": 200,
+            "column_min": 1509,
+            "row_min": 499
+        },
+        {
+            "column_max": 1731,
+            "id": 59,
+            "row_max": 553,
+            "content": "00 02 28 46",
+            "height": 22,
+            "width": 252,
+            "column_min": 1479,
+            "row_min": 531
+        },
+        {
+            "column_max": 1517,
+            "id": 60,
+            "row_max": 577,
+            "content": "Days",
+            "height": 14,
+            "width": 33,
+            "column_min": 1484,
+            "row_min": 563
+        },
+        {
+            "column_max": 1589,
+            "id": 61,
+            "row_max": 574,
+            "content": "Hours",
+            "height": 11,
+            "width": 39,
+            "column_min": 1550,
+            "row_min": 563
+        },
+        {
+            "column_max": 1662,
+            "id": 62,
+            "row_max": 574,
+            "content": "Minutes",
+            "height": 11,
+            "width": 52,
+            "column_min": 1610,
+            "row_min": 563
+        },
+        {
+            "column_max": 1740,
+            "id": 63,
+            "row_max": 574,
+            "content": "Seconds",
+            "height": 11,
+            "width": 57,
+            "column_min": 1683,
+            "row_min": 563
+        },
+        {
+            "column_max": 1754,
+            "id": 64,
+            "row_max": 663,
+            "content": "An amazing tournament brought to you by",
+            "height": 14,
+            "width": 289,
+            "column_min": 1465,
+            "row_min": 649
+        },
+        {
+            "column_max": 1697,
+            "id": 65,
+            "row_max": 742,
+            "content": "Impulse WORLD",
+            "height": 59,
+            "width": 181,
+            "column_min": 1516,
+            "row_min": 683
+        },
+        {
+            "column_max": 1748,
+            "id": 66,
+            "row_max": 819,
+            "content": "Need help ? Click here to talk with us .",
+            "height": 14,
+            "width": 249,
+            "column_min": 1499,
+            "row_min": 805
+        }
+    ]
+}
